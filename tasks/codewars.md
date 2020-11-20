@@ -9,7 +9,7 @@ Codewars:
    7. http://www.codewars.com/kata/word-count done
    8. http://www.codewars.com/kata/remove-first-and-last-character-part-two done
    9. http://www.codewars.com/kata/implement-a-filter-function 404
-   10. http://www.codewars.com/kata/prefill-an-array
+   10. http://www.codewars.com/kata/prefill-an-array done
    11. http://www.codewars.com/kata/cross-product-of-vectors
    12. http://www.codewars.com/kata/sequence-generator-1 done
    13. https://www.codewars.com/kata/base-conversion/
