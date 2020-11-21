@@ -5,7 +5,7 @@ Codewars:
    3. http://www.codewars.com/kata/printing-array-elements-with-comma-delimiters done
    4. http://www.codewars.com/kata/transportation-on-vacation done
    5. http://www.codewars.com/kata/get-the-middle-character done
-   6. http://www.codewars.com/kata/partition-on
+   6. http://www.codewars.com/kata/partition-on done
    7. http://www.codewars.com/kata/word-count done
    8. http://www.codewars.com/kata/remove-first-and-last-character-part-two done
    9. http://www.codewars.com/kata/implement-a-filter-function 404
@@ -17,7 +17,7 @@ Codewars:
    15. http://www.codewars.com/kata/a-function-within-a-function
    16. http://www.codewars.com/kata/can-you-keep-a-secret
    17. http://www.codewars.com/kata/using-closures-to-share-class-state
-   18. http://www.codewars.com/kata/a-chain-adding-function
+   18. http://www.codewars.com/kata/a-chain-adding-function done
    19. http://www.codewars.com/kata/function-cache
    20. http://www.codewars.com/kata/function-composition done
    21. http://www.codewars.com/kata/function-composition-1 done
