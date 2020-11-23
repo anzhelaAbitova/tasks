@@ -13,7 +13,7 @@ Codewars:
    11. http://www.codewars.com/kata/cross-product-of-vectors
    12. http://www.codewars.com/kata/sequence-generator-1 done
    13. https://www.codewars.com/kata/base-conversion/
-   14. http://www.codewars.com/kata/closures-and-scopes
+   14. http://www.codewars.com/kata/closures-and-scopes done
    15. http://www.codewars.com/kata/a-function-within-a-function done
    16. http://www.codewars.com/kata/can-you-keep-a-secret done
    17. http://www.codewars.com/kata/using-closures-to-share-class-state done
