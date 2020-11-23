@@ -23,12 +23,12 @@ Codewars:
    21. http://www.codewars.com/kata/function-composition-1 done
    22. http://www.codewars.com/kata/stringing-me-along done
    23. http://www.codewars.com/kata/i-spy
-   24. http://www.codewars.com/kata/calculating-with-functions
+   24. http://www.codewars.com/kata/calculating-with-functions done
    25. http://www.codewars.com/kata/santaclausable-interface
    26. http://www.codewars.com/kata/new-with-apply
    27. http://www.codewars.com/kata/extract-nested-object-reference done
    28. http://www.codewars.com/kata/array-helpers done
-   29. http://www.codewars.com/kata/replicate-new
+   29. http://www.codewars.com/kata/replicate-new done 
    30. http://www.codewars.com/kata/sum-of-digits-slash-digital-root/ done
    31. http://www.codewars.com/kata/fun-with-es6-classes-number-2-animals-and-inheritance done
    32. http://www.codewars.com/kata/fun-with-es6-classes-number-3-cuboids-cubes-and-getters
